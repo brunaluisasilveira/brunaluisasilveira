@@ -37,6 +37,6 @@ In addition to improving technical skills, always looking to evolve and learn ne
   
   ##
   
-  ![Snake animation](https://github.com/brunnasilveira/brunnasilveira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/brunaluisasilveira/brunaluisasilveira/blob/output/github-contribution-grid-snake.svg)
   
 </div>

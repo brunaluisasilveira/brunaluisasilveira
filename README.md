@@ -1,9 +1,9 @@
 ## Hi! I'm Bruna Luisa! 🙋‍♀
 I'm a full stack developer!
 
-In Front-End I have experience with JavaScript, React, HTML, CSS, among other tools.
+In Front-End I have experience with JavaScript, React, HTML, CSS.
 
-In Back-end I have knowledge of Node development using JavaScript and tools such as NestJS, Express, among other tools.
+In Back-end I have knowledge of Node development using JavaScript and tools such as Express.
 
 Knowledge in agile methods such as Scrum and Kanban.
 

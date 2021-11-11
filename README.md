@@ -1,9 +1,9 @@
 ## 
-Desenvolvedor(a) Front-End: 
-👩🏻‍💻 Em Front-End possuo experiência com JavaScript, HTML, CSS, React.JS, Figma (construir site e aplicações baseados em designers do figma)...
+👩🏻‍💻 Desenvolvedor(a) Front-End: 
+Em Front-End possuo experiência com JavaScript, HTML, CSS, React.JS, Figma (construir site e aplicações baseados em designers do figma)...
 
-Estudante de Back-End:
-👩🏻‍💻 No Back-end venho aprimorando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, consumo de APIs, API Restful.
+👩🏻‍💻 Estudante de Back-End:
+No Back-end venho aprimorando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, consumo de APIs, API Restful.
 
 🔸Atualmente tenho trabalhado com Docker e Docker-Composer, MySQL, Insomnia, versionamento com Git, Github e Gitlab, também com Jira e Slack e com as métodos ágeis Scrum e Kanban.
 

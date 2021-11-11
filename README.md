@@ -1,13 +1,13 @@
-## Hi! I'm Bruna Luisa! 🙋‍♀
-I'm a full stack developer!
+## Desenvolvedor(a) Front-End: 
+👩🏻‍💻 Em Front-End possuo experiência com JavaScript, HTML, CSS, React.JS, Figma (construir site e aplicações baseados em designers do figma)...
 
-In Front-End I have experience with JavaScript, React, HTML, CSS.
+Estudante de Back-End:
+👩🏻‍💻 No Back-end venho aprimorando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, consumo de APIs, API Restful.
 
-In Back-end I have knowledge of Node development using JavaScript and tools such as Express.
+🔸Atualmente tenho trabalhado com Docker e Docker-Composer, MySQL, Insomnia, versionamento com Git, Github e Gitlab, também com Jira e Slack e com as métodos ágeis Scrum e Kanban.
 
-Knowledge in agile methods such as Scrum and Kanban.
-
-In addition to improving technical skills, always looking to evolve and learn new technologies, my experience also allows me to develop personal qualities, such as collaborative mindset, good relationships with co-workers and customers, good acceptance of feedback, resilience, critical analysis and problem solving.
+▫️Estou sempre em busca de adquirir conhecimento, seja para evoluir nas tecnologias que já sei, como também adquirindo conhecimento sobre novas tecnologias.
+Minhas experiências também me permitiram desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, resiliência, análise crítica e resolução de problemas.
 
 ##
 

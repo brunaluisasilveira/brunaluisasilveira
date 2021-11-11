@@ -1,4 +1,5 @@
-## Desenvolvedor(a) Front-End: 
+## 
+Desenvolvedor(a) Front-End: 
 👩🏻‍💻 Em Front-End possuo experiência com JavaScript, HTML, CSS, React.JS, Figma (construir site e aplicações baseados em designers do figma)...
 
 Estudante de Back-End:

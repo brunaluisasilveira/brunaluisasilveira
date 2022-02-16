@@ -1,14 +1,12 @@
 ## 
-👩🏻‍💻 Desenvolvedor(a) Front-End: 
-Em Front-End possuo experiência com JavaScript, HTML, CSS, React.JS, Figma (construir site e aplicações baseados em designers do figma)...
+▫️ I'm always looking to acquire knowledge, whether to evolve in the technologies I already know, as well as acquiring knowledge about new technologies.
 
-👩🏻‍💻 Estudante de Back-End:
-No Back-end venho aprimorando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, consumo de APIs, API Restful.
+👩🏻‍💻 In Front-End I have experience with JavaScript, HTML, CSS, React.JS, Figma (build website and applications based on figma designers).
+👩🏻‍💻 In the Back-end I've been improving my knowledge of development in Node.JS using JavaScript and tools like Express, API consumption, Restful API.
 
-🔸Atualmente tenho trabalhado com Docker e Docker-Composer, MySQL, Insomnia, versionamento com Git, Github e Gitlab, também com Jira e Slack e com as métodos ágeis Scrum e Kanban.
+🔸Currently I have been working with Docker and Docker-Composer, MySQL, Insomnia, versioning with Git, Github and Gitlab, also with Jira and Slack and with the agile methods Scrum and Kanban.
 
-▫️Estou sempre em busca de adquirir conhecimento, seja para evoluir nas tecnologias que já sei, como também adquirindo conhecimento sobre novas tecnologias.
-Minhas experiências também me permitiram desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, resiliência, análise crítica e resolução de problemas.
+My experiences also allowed me to develop personal qualities such as a collaborative mindset, good relationships with co-workers and clients, good acceptance of feedback, resilience, critical analysis and problem solving.
 
 ##
 

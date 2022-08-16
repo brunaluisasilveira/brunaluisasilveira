@@ -1,5 +1,6 @@
 ## 
 Dev Front-end!
+
 Possuo experiência com JavaScript, HTML, CSS, React JS, Figma, Jquery, Bootstrap, desenvolvimento e criação de Skeletons, Email Marketing, Api, Api Rest, etc.
 Atualmente tenho trabalhado com Docker e Docker-Composer, banco MySQL, MYSQL Workbanch, Insomnia, versionamento com Git, Github, Gitlab, Jira com a metodologia Scrum e Kanban e com o Slack.
 
@@ -7,9 +8,11 @@ Desenvolvo em todos os sistemas operacionais: Windows, Linux e MacOS.
 
 Também tenho experiência com Web Design, criação e edição, utilizando CorelDraw, Photoshop, entre outros.
 
+
 GitLab: https://gitlab.com/brunaluisasilveira
 
 GitHub: https://github.com/brunaluisasilveira
+
 
 Minhas experiências também me permitiram desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, resiliência, análise crítica e resolução de problemas.
 

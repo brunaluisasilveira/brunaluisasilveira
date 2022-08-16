@@ -1,12 +1,16 @@
 ## 
-▫️ I'm always looking to acquire knowledge, whether to evolve in the technologies I already know, as well as acquiring knowledge about new technologies.
+Dev Front-end!
+Possuo experiência com JavaScript, HTML, CSS, React JS, Figma, Jquery, Bootstrap, desenvolvimento e criação de Skeletons, Email Marketing, Api, Api Rest, etc.
+Atualmente tenho trabalhado com Docker e Docker-Composer, banco MySQL, MYSQL Workbanch, Insomnia, versionamento com Git, Github, Gitlab, Jira com a metodologia Scrum e Kanban e com o Slack.
 
-👩🏻‍💻 In Front-End I have experience with JavaScript, HTML, CSS, React.JS, Figma (build website and applications based on figma designers).
-👩🏻‍💻 In the Back-end I've been improving my knowledge of development in Node.JS using JavaScript and tools like Express, API consumption, Restful API.
+Desenvolvo em todos os sistemas operacionais: Windows, Linux e MacOS.
 
-🔸Currently I have been working with Docker and Docker-Composer, MySQL, Insomnia, versioning with Git, Github and Gitlab, also with Jira and Slack and with the agile methods Scrum and Kanban.
+Também tenho experiência com Web Design, criação e edição, utilizando CorelDraw, Photoshop, entre outros.
 
-My experiences also allowed me to develop personal qualities such as a collaborative mindset, good relationships with co-workers and clients, good acceptance of feedback, resilience, critical analysis and problem solving.
+GitLab: https://gitlab.com/brunaluisasilveira
+GitHub: https://github.com/brunaluisasilveira
+
+Minhas experiências também me permitiram desenvolver qualidades pessoais, como mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, resiliência, análise crítica e resolução de problemas.
 
 ##
 
